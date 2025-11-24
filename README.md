@@ -2,13 +2,13 @@
 
 ### A passionate Javascript developer
 
-- 🔭 I'm currently working on **I'm currently focused on leveling up as a front-end developer — improving my Vue.js skills and diving into React to broaden my JavaScript toolkit.**
+- 🔭 **I'm currently focused on leveling up as a front-end developer — improving my Vue.js skills and diving into React to broaden my JavaScript toolkit.**
 
-- 🌱 I'm currently learning **Learning React and TypeScript, and experimenting with different tools to push my front-end skills to the next level.**
+- 🌱 **Learning React and TypeScript, and experimenting with different tools to push my front-end skills to the next level.**
 
-- 💬 Ask me about **About JavaScript, Vue.js, front-end architecture, or anything related to clean and efficient UI development.**
+- 💬 Ask me about: **JavaScript, Vue.js, front-end architecture, or anything related to clean and efficient UI development.**
 
-- ⚡ Fun fact **Dark mode isn’t just a preference — it’s a lifestyle**
+- ⚡ **Dark mode isn’t just a preference — it’s a lifestyle**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
