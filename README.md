@@ -1,21 +1,58 @@
-# Hi 👋, I'm David Nin
+# Hi, I'm David Nin 👋
 
-### A passionate Javascript developer
+### Software Engineer | Frontend Specialist transitioning to Software Architecture
 
-- 🔭 **I'm currently focused on leveling up as a front-end developer — improving my Vue.js skills and diving into React to broaden my JavaScript toolkit.**
+---
 
-- 🌱 **Learning React and TypeScript, and experimenting with different tools to push my front-end skills to the next level.**
+### 🚀 About Me
 
-- 💬 Ask me about: **JavaScript, Vue.js, front-end architecture, or anything related to clean and efficient UI development.**
+I have spent **over 6 years** specializing in the **Vue.js** ecosystem, building complex interfaces and digital products. However, my technical curiosity has expanded far beyond the browser.
 
-- ⚡ **Dark mode isn’t just a preference — it’s a lifestyle**
+I am currently in a phase of **deep professional evolution**. I am no longer satisfied with code that just "works" or looks good; I am obsessed with **how it is designed, how it scales, and how maintainable it is**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/davidniin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="davidniin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/david-nin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-nin" height="30" width="40" /></a>
-</p>
+🎓 I balance my full-time work with a **Degree in Computer Science (Software Engineering major)**, because I firmly believe that strong theoretical foundations are the best defense against technological obsolescence.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/angular" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jasmine" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-original.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jest" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuepress" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuepress" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/webpack" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=webpack" alt="webpack" width="40" height="40"/> </a></p>
+---
 
+### 🎯 Current Focus & Evolution
+
+My career is shifting from **UI Implementation** towards **Backend & System Architecture**. My goal is to achieve a complete *End-to-End* engineering vision.
+
+* 🔭 **Currently working on:** Deep diving into **Node.js** internals and **Hexagonal Architecture**.
+* 🌱 **Learning:** **NestJS**, Advanced Design Patterns, and AI System Architecture (RAG/Vector DBs).
+* 🏗️ **Interests:** Clean Architecture, Domain-Driven Design (DDD), Scalability, and Software Quality.
+* ⚡ **Philosophy:** "AI may write the code, but the engineer must design the system."
+
+---
+
+### 🛠️ Tech Stack
+
+#### 🟢 Core & Frontend (Expert Level)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+#### 🟡 Backend & Architecture (Active Expansion)
+![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+#### 📚 Concepts & Methodologies
+`Clean Architecture` `SOLID Principles` `TDD` `CI/CD` `REST API Design`
+
+---
+
+### 📈 Learning Roadmap (2026)
+
+This is my public commitment to continuous improvement:
+
+- [x] Master the Vue.js ecosystem (Vue 3, Pinia, Composition API).
+- [ ] Become an expert in **Node.js** (Event Loop, Streams, Runtime internals).
+- [ ] Build robust systems with **NestJS** and **PostgreSQL**.
+- [ ] Integrate **AI Engineering** (RAG, LangChain) into real-world applications.
+- [ ] Graduate in Software Engineering.
+
+---
+
+### 💬 Let's Connect
+
+I am always open to discussing **software architecture**, engineering challenges, or simply sharing interesting resources.
+
+[Linkedin](https://www.linkedin.com/in/your-profile) ---
+*"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." — Martin Fowler*
