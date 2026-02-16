@@ -54,5 +54,5 @@ This is my public commitment to continuous improvement:
 
 I am always open to discussing **software architecture**, engineering challenges, or simply sharing interesting resources.
 
-[Linkedin](https://www.linkedin.com/in/your-profile) ---
+[Linkedin](https://www.linkedin.com/in/david-nin) ---
 *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." — Martin Fowler*
