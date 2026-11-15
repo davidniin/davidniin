@@ -20,7 +20,7 @@ I'm also finishing a **Degree in Computer Engineering** (UOC) while working full
 | **[Make Your Docu](https://make-your-docu.davidnin.dev)** | Generates technical documentation from a codebase with AI, edited in a rich-text editor | Vue 3, Express, Supabase, Groq LLM |
 | **Nummo** *(private)* | Personal finance app for couples and families: budgets, accounts, goals, net worth | Nuxt, NestJS, Prisma, PostgreSQL |
 
-All of them run on my **homelab**: a mini PC with Docker, Cloudflare Tunnel and GitHub Actions deploying on every push to `main`. AutoLog is also available in the [Umbrel app store](https://github.com/davidniin/umbrel-apps).
+AutoLog is also available in the [Umbrel app store](https://github.com/davidniin/umbrel-apps).
 
 ---
 
